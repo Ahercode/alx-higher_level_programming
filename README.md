@@ -1,7 +1,7 @@
-## Let's take tour into Python
-~Hi there, my name is Philip. I welcome you tto my Repo~
+# Let's take tour into Python
+``Hi there, my name is Philip. I welcome you to my Repo``
 
-# Learning Objectives
+## Learning Objectives
 - Why Python programming is awesome
 - Why indentation is so important in Python
 - How to use the if, if ... else statements
