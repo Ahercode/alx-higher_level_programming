@@ -1,4 +1,4 @@
-# Let's a take tour into Python
+# Let's take a tour into Python
 ``Hi there, my name is Philip. I welcome you to my Repo``
 
 ## Learning Objectives
